@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Framework"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/jsoup-1.11.3.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/java-json.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/jackson-all-1.8.1.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/jackson-core-2.2.3.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/javax.ws.rs.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/org.json.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/tess4j-3.0.2.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/jna-4.2.2.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/commons-lang3-3.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/lept4j-1.2.3.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/jna-platform-4.2.2.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/logback-core-1.1.7.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/test4j.nodep-2.0.7.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/test4j.core-2.0.7.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/test4j.fortest-2.0.7.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/xmlgraphics-commons-1.5.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/logback-classic-1.1.7.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/rococoa-core-0.5.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/jai-imageio-core-1.3.1.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/log4j-over-slf4j-1.7.21.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/ghost4j-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/jul-to-slf4j-1.7.21.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/asm-3.3.1.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/cglib-2.2.2.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/java-client-4.1.2.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/selenium-api-2.53.0.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/selenium-server-standalone-2.53.1 (1).jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/selenium-remote-driver-2.53.1.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/selenium-java-2.53.1.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/itextpdf-5.1.0.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/xmlrpc-common-3.1.2.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/xmlrpc-client-3.1.2.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/quartz-2.1.5.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/selenium-support-2.44.0.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/ws-commons-util-1.0.2.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/mail.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/jsch-0.1.31.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/activation.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/asg.cliche-110413.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/commons-cli-1.3.1.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/commons-vfs2-2.0.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/imageClient.jar"/>
+	<classpathentry kind="lib" path="/Applications/Automation/automation softwares/Complete jars required to start automation/android-2.1_r1.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/Downloads/jar_files.zip"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/BROWSER_STACK_POM"/>
+	<classpathentry kind="lib" path="/Users/apple/Downloads/robot-1.2.4-h-1-sources.jar.zip"/>
+	<classpathentry kind="lib" path="/Users/apple/Downloads/robot-1.2.4-h-1-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
